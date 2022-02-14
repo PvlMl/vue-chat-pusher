@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "pusher": "^5.0.1",
+    "pusher-js": "^7.0.6",
     "vue": "^3.0.0"
   },
   "devDependencies": {
